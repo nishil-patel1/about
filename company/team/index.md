@@ -740,3 +740,10 @@ Outside of work, he enjoys golfing, cheering on his favorite LA sports teams and
 - GitHub: [pdubroy](https://github.com/pdubroy)
 - [patrick@sourcegraph.com](mailto:patrick@sourcegraph.com), [Twitter](https://twitter.com/dubroy), [LinkedIn](https://www.linkedin.com/in/pdubroy), [dubroy.com](https://dubroy.com/) 
 - Patrick is a small-town Canadian kid who's been living in Germany for the past 10 years. Previously, he worked on autonomous driving at Lyft, where he was an enthusiastic user of Sourcegraph. Outside of work, he loves to play soccer, watch [Bayern Munich](https://fcbayern.com/) games, and explore the gravel roads around Munich on his bike.
+
+## Nishil Patel (he/him) 
+- Enterprise Account Executive
+- Brooklyn, NY, USA 🇺🇸
+- GitHub: nishil-patel1
+- [nishil@sourcegraph.com](mailto:nishil@sourcegraph.com), [LinkedIn](https://www.linkedin.com/in/nishilp)
+- Nishil lives in Brooklyn's Clinton Hill neighborhood. He's a dual citizen of the US & UK. Prior to Sourcegraph, Nishil spent 4 years at Sift helped enterprise businesses prevent online fraud using ML in the EMEA & US regions. Outside of work, Nishil can be found cheering for Arsenal, ranking NYC's pizza joints or competing with friends on Peloton.
